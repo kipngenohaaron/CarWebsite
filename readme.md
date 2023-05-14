@@ -25,8 +25,7 @@
 
 
 ## LInk to live 
-https://github.com/kipngenohaaron/carwebsite
-
+https://kipngenohaaron.github.io/carwebsite/
 ## License
 MIT License
 Copyright 2023 Kipngenoh Aaron Rotich
