@@ -134,7 +134,14 @@ span {
     margin-bottom: 8px;
 }
 
-
+.car-btn img {
+    width: 40px;
+    height: 20px;
+}
+.car-btn1 img {
+    width: 40px;
+    height: 20px;
+}
 .client-column {
     float: left;
     margin-left: 100px;
