@@ -158,4 +158,24 @@ span {
     margin-left: 900px;
     margin-top:-250px;
 
+}
 
+.footer-column {
+    margin-left: 100px;
+    float: left;
+    width: 15%;
+}
+
+input{
+    display: list-item;
+    border: 2px solid orangered;
+    padding: 5px;
+    margin: 10px;
+}
+
+.footer-column button {
+    border: none;
+    background-color: orangered;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
