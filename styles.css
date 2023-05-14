@@ -1,0 +1,76 @@
+.navbar li {
+    display: inline-block;
+    padding: 15px;
+    
+}
+
+.nav-column {
+    float: left;
+    padding: 20px;
+    width: 30%;
+    border-bottom: 1px solid grey;
+    font-weight: 700;
+}
+
+.nav-column1 {
+    float: left;
+    padding: 20px;
+    width: 30%;
+    border-bottom: 1px solid grey;
+
+}
+
+.nav-column2 {
+    float: left;
+    padding: 20px;
+    width: 30%;
+    border-bottom: 1px solid grey;
+    margin-top: -3px;
+
+}
+.nav-column2 button {
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+}
+
+.column-start {
+    float: left;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.column-start-img {
+    float: left;
+    width: 80%;
+    margin-top: -250px;
+    margin-left: 100px;
+    
+}
+
+.column-start-img img {
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+
+
+.buy{
+    padding: 10px 25px;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.sell{
+    padding: 10px 25px;
+    background-color: white;
+    border:1px solid orangered;
+    border-radius: 5px;
+    font-weight: 700;
+    color: orangered;
+}
