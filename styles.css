@@ -142,3 +142,19 @@ span {
     width: 100%;
 }
 
+.download{
+    margin-top: 400px;
+    text-align: center;
+    background-color: rgb(249, 237, 223);
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+    
+}
+
+.rental-img {
+    height: 300px;
+    width: 150px;
+    margin-left: 900px;
+    margin-top:-250px;
+}
