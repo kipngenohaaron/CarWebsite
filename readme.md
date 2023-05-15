@@ -22,8 +22,11 @@
 2. CSS
 3. Vscode
 
-
-
+### sketch
+![Car Website](https://github.com/kipngenohaaron/carwebsite/assets/132748186/d8b653be-e0bd-47ac-b402-19a261428bd8)
+## Contact Info.
+### For more information you can reach out; Email: kipngenohaaron@gmail.com
+#### 0724279400 / 0724828197
 ## LInk to live 
 https://kipngenohaaron.github.io/carwebsite/
 ## License
